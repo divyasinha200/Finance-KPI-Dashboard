@@ -7,10 +7,10 @@ An interactive Power BI dashboard that visualizes key financial KPIs by comparin
 ## Dashboard Previews
 
 ### Finance KPI Dashboard
-![Finance KPI Dashboard](images/KPI%20dashboard%201.png)
+![Finance KPI Dashboard](KPI dashboard 1 .png)
 
 ### Actual vs Target Dashboard
-![Actual vs Target Dashboard](images/Actual%20vs%20Target%20dashboard%202.png)
+![Actual vs Target Dashboard])
 
 ---
 
