@@ -137,7 +137,7 @@ As a Data Analyst, I focused on transforming raw sales and target data into an i
 ![Finance KPI Dashboard](https://github.com/divyasinha200/Finance-KPI-Dashboard/blob/main/KPI%20dashboard%201%20.png)
 
 ### Actual vs Target Dashboard  
-![Actual vs Target Dashboard]()
+![Actual vs Target Dashboard](https://github.com/divyasinha200/Finance-KPI-Dashboard/blob/main/Target%20vs%20Sales%20dashboard.png)
 
 ---
 
