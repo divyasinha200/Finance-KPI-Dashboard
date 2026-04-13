@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that visualizes key financial KPIs by comparing actual sales to targets. This project helps in tracking performance, identifying gaps, and supporting strategic decision-making using clean visual storytelling.
 
----
+----
 
 ## 👩‍💼 Business Analyst Role
 
